@@ -1,5 +1,7 @@
 # mochilaDeViagem
 
+> HTML | CSS | JavaScript
+
 <h2>Projeto Mochila de Viagem - site para servir de lista de itens</h2>
 
 <li>Inserindo dados no LocalStorage</li>

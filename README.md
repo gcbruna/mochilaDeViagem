@@ -2,7 +2,8 @@
 
 > HTML | CSS | JavaScript
 
- https://mochila-de-viagem-kxk1owv35-gcbruna.vercel.app/
+## Acesse o site aqui! 👇🏻
+https://mochila-de-viagem-kxk1owv35-gcbruna.vercel.app/
 
 <h2>Projeto Mochila de Viagem - site para servir de lista de itens</h2>
 
